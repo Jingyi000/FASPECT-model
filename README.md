@@ -22,4 +22,5 @@ a4             r4_up/r4_down
 Output:
 
 r1 and t1 are reflectance and transmittance emerges from the upper face of the leaf
+
 r2 and t2 are reflectance and transmittance emerges from the lower face of the leaf
