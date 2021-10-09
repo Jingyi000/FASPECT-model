@@ -8,7 +8,7 @@ function tr=tav(teta,n)
 %     ALLEN W.A., 1973, Transmission of isotropic light across a
 %     dielectric surface in two and three dimensions, J.Opt.Soc.Am.,
 %     Vol.63, 6:664-666
- 
+%      
       if (teta==0)
         tr=4*n./(n+1).^2;
       else
